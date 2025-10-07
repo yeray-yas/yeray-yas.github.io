@@ -25,6 +25,8 @@ jobs:
         uses: withastro/action@v3
         with:
           node-version: 20
+          # 👇 Muy importante: esta ruta debe coincidir con la carpeta de salida de Astro (por defecto 'dist')
+          path: dist
 
   deploy:
     needs: build
