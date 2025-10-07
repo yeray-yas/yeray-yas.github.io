@@ -14,7 +14,7 @@ I love both Astro and the Terminal theme by panr, so I decided to port this them
 - **nice syntax highlighting** — thanks to Astro's built-in Shiki support
 - **fully responsive** — works great on mobile and desktop
 - **tag support** — organise posts with tags and browse by tag
-- **RSS feed** — automatically generated RSS feed for your blog.
+- **RSS feed** — automatically generated RSS feed for your blog
 
 ## Requirements
 
