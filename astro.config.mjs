@@ -5,6 +5,7 @@ import { defineConfig, envField } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://yeray-yas.github.io',
   integrations: [react()],
   adapter: netlify(),
   env: {
